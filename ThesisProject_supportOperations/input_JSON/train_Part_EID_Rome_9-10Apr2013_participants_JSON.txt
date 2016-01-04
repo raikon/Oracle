@@ -1,0 +1,13 @@
+{"participants":{
+"p1":{"Partner":"Partner","Nominativoregistrato":"Nominativo registrato","Job":"Job","email":"email","Telefono":"Telefono"},
+"p2":{"Partner":"ALTEA","Nominativoregistrato":"Pierfranco Lai","Job":"Enterprise Business Applications","email":"plai@alteanet.it","Telefono":"348 4482358 "},
+"p3":{"Partner":"Deloitte","Nominativoregistrato":"Valentina Balsarini","Job":"Analyst","email":" (vbalsarini@deloitte.it) ","Telefono":"333 4123802"},
+"p4":{"Partner":"Diventa","Nominativoregistrato":"Ignazio De Iudicibus","Job":"Direttore Tecnico","email":"i.deiudicibus@diventa.it","Telefono":"328 0842455"},
+"p5":{"Partner":"Eclips","Nominativoregistrato":"Massimiliano Minici","Job":"Manager & IT consultant","email":"m.minici@eclips.it","Telefono":"335 7770869"},
+"p6":{"Partner":"Evodevo","Nominativoregistrato":"Erika Fabiano","Job":"Ricercatrice","email":"e.fabiano@evodevo.it","Telefono":"349 5710431"},
+"p7":{"Partner":"iConsulting","Nominativoregistrato":"Oreste Ciotoli","Job":"Application Consultant","email":"o.ciotoli@iconsulting.biz","Telefono":"349 3349 176"},
+"p8":{"Partner":"Olympos","Nominativoregistrato":"Andrea Scaroni","Job":"Business Intelligence Expert","email":"andrea.scaroni@olymposconsulting.it","Telefono":"06 94443184"},
+"p9":{"Partner":"Olympos","Nominativoregistrato":"Giampaolo Erriquez","Job":"Business Intelligence Expert","email":"giampaolo.erriquez@gmail.com","Telefono":"349 3200059"},
+"p10":{"Partner":"Reply Technology ","Nominativoregistrato":"Claudio Annibale","Job":"Consultant","email":"c.annibale@reply.it","Telefono":"340 4006167"}
+ } 
+ }
