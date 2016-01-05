@@ -26,7 +26,7 @@ public class LevenshteinDistance {
 
 
 	public static void main(String args[]) {
-		System.out.println(computeLevenshteinDistance("bperservicess.c.p.a.","bperservices"));
+		System.out.println(computeLevenshteinDistance("POSTE ITALIANE SPA","POSTE ITALIANE"));
 	}
 
 }
